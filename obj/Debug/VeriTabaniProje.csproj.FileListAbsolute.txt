@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Form1.resources
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+C:\Users\lenovo\source\repos\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
